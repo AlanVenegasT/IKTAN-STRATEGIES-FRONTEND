@@ -4,8 +4,6 @@ const navigation = {
     { name: 'Gestion Regulatoria', href: '#' },
     { name: 'Cumplimiento Ambiental', href: '#' },
     { name: 'Capacitacion', href: '#' },
-    { name: 'Accessibility', href: '#' },
-    { name: 'Partners', href: '#' },
   ],
   social: [
     {

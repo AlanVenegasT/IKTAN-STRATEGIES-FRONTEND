@@ -21,7 +21,7 @@ import {
 } from "@heroicons/react/24/outline";
 import { Faqs } from "../components/Faqs";
 import { Seccionimg } from "../components/Seccionimg";
-
+import CTAsplitimg from "../components/CTAsplitimg";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -91,7 +91,7 @@ export default function Gestionregulatoria() {
     </div>
     
 
-
+    <CTAsplitimg />
 
     </div>
   );
