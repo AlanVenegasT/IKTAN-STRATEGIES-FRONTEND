@@ -52,7 +52,7 @@ export const Carrusel = () => {
   return (
     <div className="App">
       <div style={{ textAlign: "center" }}>
-        <h2 className="text-3xl font-bold tracking-tight text-black sm:text-4xl">Nuestros servicios</h2>
+        <h2 className="text-3xl font-bold tracking-tight text-black sm:text-4xl mt-20">Nuestros servicios</h2>
        
         <div style={{
           padding: "0px 20px"

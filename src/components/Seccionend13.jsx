@@ -1,10 +1,8 @@
 import React from "react";
 
-
-export const Seccionend12 = () => {
+export const Seccionend13 = () => {
   return (
-    
-      <div>
+    <div>
         <div className="relative bg-gray-800 py-32 px-6 sm:py-40 sm:px-12 lg:px-16">
           <div className="absolute inset-0 overflow-hidden ">
             <img
@@ -25,7 +23,7 @@ export const Seccionend12 = () => {
 
             <div className="relative  flex max-w-2xl flex-col items-center ">
               <h2 className="text-3xl font-bold tracking-tight text-white sm:text-3xl">
-                Implementación del SASISOPA
+              Programa para la Prevención y Control Integral de Emisiones de Metano del Sector Hidrocarburos PPCIEM
               </h2>
               <p className="mt-3 text-g1 text-white">
                 El eje central de la regulación de ASEA son los Lineamientos
@@ -58,6 +56,5 @@ export const Seccionend12 = () => {
         </div>
       </div>
 
-   
-  );
-};
+  )
+}

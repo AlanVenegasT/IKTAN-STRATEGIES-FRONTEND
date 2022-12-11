@@ -14,7 +14,7 @@ const Herosecction = () => {
                   />
                   <div className="absolute inset-0  mix-blend-multiply" />
                 </div>
-                //sm:px-6 sm:py-24 lg:py-32 lg:px-8
+               
                 <div className="relative h-screen w-screen ">
                   <div className="flex h-screen">
                     <div className="m-auto">
