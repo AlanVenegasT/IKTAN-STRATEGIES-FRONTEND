@@ -1,13 +1,17 @@
-import React from 'react'
-import { Politicas } from '../components/Politicas'
+import React from 'react';
+import  Politicas  from '../components/Politicas';
 
-export const Politicasprivacidad = () => {
+const Politicasprivacidad = () => {
   return (
     
+
     
-        <Politicas/>
+    
+        <Politicas />
     
     
 
   )
 }
+
+export default Politicasprivacidad;
