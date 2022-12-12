@@ -19,14 +19,14 @@ const Herosecction = () => {
                   <div className="flex h-screen">
                     <div className="m-auto">
                       <h1 className="text-center text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl ">
-                        <span className="block text-white ">
+                        <span className="block text-white mb-2">
                           Tercero Autorizado
                         </span>
-                        <span className="block text-white bg-gradient-to-r from-[#D61229] via-[#DD102A] to-[#E44458]  px-6 py-2">  //    
+                        <span className="block text-white bg-gradient-to-r from-[#D61229] via-[#DD102A] to-[#E44458]  px-6 py-2 rotate-2  ">     
                           TA-D-A02/06-16/2021
                         </span>
                       </h1>
-                      <p className="mx-auto mt-6 max-w-lg text-center text-3xl text-white sm:max-w-3xl font-bold ">
+                      <p className="mx-auto mt-6 max-w-lg text-center text-3xl text-white sm:max-w-3xl font-bold animate-bounce  ">
                         PARA EXPLORACIÓN Y EXTRACCIÓN DE HIDROCARBUROS.
                       </p>
                       <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">

@@ -4,7 +4,7 @@ import LandingLayout from "./layouts/LandingLayout";
 import Capacitacion from "./pages/Capacitacion";
 import Gestionregulatoria from "./pages/Gestionregulatoria";
 import Landingpage from "./pages/Landingpage";
-import Cumplimientoambiental from "./pages/Cumplimientoambiental";
+
 
 export default function App() {
   return (
@@ -15,7 +15,7 @@ export default function App() {
           <Route index element={<Landingpage/>} />
           <Route path="/Capacitacion" element={<Capacitacion/>} />
           <Route path="/Gestionregulatoria" element={<Gestionregulatoria/>} />
-          <Route path="/Cumplimientoambiental" element={<Cumplimientoambiental/>} />
+          
           <Route path="/" element={<Footer/>} />
 
         </Route>

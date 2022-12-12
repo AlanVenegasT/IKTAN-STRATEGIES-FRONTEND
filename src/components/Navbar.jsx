@@ -187,7 +187,7 @@ export default function Navbar() {
                 Gestión Regulatoria
               </a>
               <a href="#" className="text-base font-medium text-gray-500 hover:text-gray-900">
-                Cumplimiento Ambiental
+                Capacitacion
               </a>
               <Popover>
                 {({ open }) => (
@@ -198,7 +198,7 @@ export default function Navbar() {
                         'group inline-flex items-center rounded-md bg-white text-gl font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2'
                       )}
                     >
-                      <span className="text">Capacitación</span>
+                      <span className="text">Contacto</span>
                       <ChevronDownIcon
                         className={classNames(
                           open ? 'text-gray-600' : 'text-gray-400',
@@ -296,7 +296,7 @@ export default function Navbar() {
               </a>
               <a
                 href="#"
-                className="ml-8 inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
+                className="ml-8 inline-flex items-center justify-center rounded-md border border-transparent bg-[#DD102A] px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
               >
                 Sign up
               </a>

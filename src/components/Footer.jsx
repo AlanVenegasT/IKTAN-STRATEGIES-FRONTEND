@@ -2,8 +2,8 @@ const navigation = {
   main: [
     { name: 'Inicio', href: '#' },
     { name: 'Gestion Regulatoria', href: '#' },
-    { name: 'Cumplimiento Ambiental', href: '#' },
     { name: 'Capacitacion', href: '#' },
+    { name: 'Contacto', href: '#' },
   ],
   social: [
     {

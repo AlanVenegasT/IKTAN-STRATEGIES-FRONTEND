@@ -34,15 +34,16 @@ export default function Landingpage() {
           <Contentsections />
         </div>
 
-        
+        <div>
+        <Objetivos />
+        </div>
+       
 
         <div >
         <Carrusel />
         </div>
         
-        <div>
-        <Objetivos />
-        </div>
+        
        
 
 

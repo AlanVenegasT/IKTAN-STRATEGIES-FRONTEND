@@ -33,8 +33,8 @@ export const Hedcurso = () => {
               y2="474.645"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stopColor="#9089FC" />
-              <stop offset={1} stopColor="#FF80B5" />
+              <stop stopColor="#E44256" />
+              <stop offset={1} stopColor="#DD102A" />
             </linearGradient>
           </defs>
         </svg>
@@ -111,7 +111,7 @@ export const Hedcurso = () => {
                 <div className="mt-8 flex gap-x-4 sm:justify-center">
                   <a
                     href="#"
-                    className="inline-block rounded-lg bg-indigo-600 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-700 hover:ring-indigo-700"
+                    className="inline-block rounded-lg bg-[#DD102A] px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 "
                   >
                     DESCARGA EL CATÁLOGO DE CURSOS
                     <span className="text-indigo-200" aria-hidden="true">
@@ -150,8 +150,8 @@ export const Hedcurso = () => {
                       y2="474.645"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stopColor="#9089FC" />
-                      <stop offset={1} stopColor="#FF80B5" />
+                      <stop stopColor="#E44256" />
+                      <stop offset={1} stopColor="#DD102A" />
                     </linearGradient>
                   </defs>
                 </svg>
